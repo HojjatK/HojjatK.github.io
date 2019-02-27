@@ -2,10 +2,10 @@
 My awesome GitHub Page blog.
 
 ### Work in Progress
-This site is under construction at the moment, for the time being please [See this blog](https://hojjatk.com)
+This site is under construction at the moment, for the time being please [See here](https://www.hojjatk.com)
 
 ### Current Status
 ```
 while(!sleeping)
-  Thread.Yeild();
+  Thread.Yield();
 ```
